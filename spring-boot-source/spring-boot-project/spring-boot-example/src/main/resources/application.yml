@@ -1,0 +1,6 @@
+server:
+  port: 6011
+
+spring:
+  application:
+    name: spring-boot-example
